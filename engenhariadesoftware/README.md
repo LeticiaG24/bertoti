@@ -1,4 +1,4 @@
-#bertoti
+# bertoti
 
 ## Livro Software Engineering at Google
 Trecho 1:
