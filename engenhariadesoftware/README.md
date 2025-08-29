@@ -29,3 +29,6 @@ Trade-off: Em sistemas de software, é preciso equilibrar a segurança necessár
   - Qualidade: Investir mais tempo e dinheiro em testes, revisões de código e boas práticas de desenvolvimento pode resultar em um produto mais robusto e livre de falhas, mas isso aumenta o custo de desenvolvimento.
 
 Trade-off: É necessário balancear as restrições orçamentárias com a necessidade de entregar um software de alta qualidade, onde o custo pode impactar diretamente no nível de qualidade do produto final.
+
+## Diagrama de classes UML
+<img src="/engenhariadesoftware/UML.png">
