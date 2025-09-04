@@ -31,4 +31,10 @@ Trade-off: Em sistemas de software, é preciso equilibrar a segurança necessár
 Trade-off: É necessário balancear as restrições orçamentárias com a necessidade de entregar um software de alta qualidade, onde o custo pode impactar diretamente no nível de qualidade do produto final.
 
 ## Diagrama de classes UML
-<img src="/engenhariadesoftware/UML.png">
+<img src="/engenhariadesoftware/img/UML.png">
+
+## Código
+<img src="/engenhariadesoftware/img/Sorveteria.png">
+<img src="/engenhariadesoftware/img/Sorvete.png">
+<img src="/engenhariadesoftware/img/Cobertura.png">
+<img src="/engenhariadesoftware/img/Teste.png">
