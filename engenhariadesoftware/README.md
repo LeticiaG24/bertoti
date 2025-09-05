@@ -37,4 +37,16 @@ Trade-off: É necessário balancear as restrições orçamentárias com a necess
 <img src="/engenhariadesoftware/img/Sorveteria.png">
 <img src="/engenhariadesoftware/img/Sorvete.png">
 <img src="/engenhariadesoftware/img/Cobertura.png">
+
+## Teste
 <img src="/engenhariadesoftware/img/Teste.png">
+
+## Diagrama de classes UML
+<img src="/engenhariadesoftware/img/UML2.png">
+
+## Código
+<img src="/engenhariadesoftware/img/Cinema.png">
+<img src="/engenhariadesoftware/img/Filme.png">
+
+## Teste
+<img src="/engenhariadesoftware/img/Teste2.png">
