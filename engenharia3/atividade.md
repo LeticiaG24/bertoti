@@ -1,4 +1,11 @@
 # Atividade 1 - Minhas contribuições no projeto de design patterns da disciplina engenharia 3
+No projeto IAbertoti, atuei como Product Owner, responsável por garantir que o produto fizesse sentido para quem o usaria e atendesse aos objetivos da disciplina de Engenharia de Software III. Minha atuação foi voltada à visão de produto, ao planejamento e à validação, sem envolvimento direto no desenvolvimento do código.
+
+Visão de produto. Defini com a equipe a proposta do Knowledge Assistant: um assistente que responde dúvidas com base apenas em documentos fornecidos pelo usuário, evitando respostas inventadas. Traduzi esse objetivo em um problema claro, o acesso rápido e confiável a informações internas de uma organização, e ajudei a manter o time alinhado a ele durante todo o projeto.
+
+Critérios de aceitação. Para cada funcionalidade, defini critérios objetivos que indicavam quando uma entrega estava concluída. Por exemplo, o assistente deveria responder corretamente quando a informação existisse no documento e informar claramente quando ela não existisse. Isso deu ao time um alvo concreto e tornou a validação mais objetiva.
+
+Validação e entregas. Acompanhei as entregas de cada ciclo, validando se o resultado correspondia ao que foi planejado. Também ajudei a elaborar o roteiro de teste e demonstração, que cobre desde o estado inicial da aplicação até a troca de estratégia e a telemetria. Esse roteiro ajuda quem avalia o projeto a percorrer todas as funcionalidades de forma clara.
 
 # Atividade 2 - Minhas contribuições no API
 
